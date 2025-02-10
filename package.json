@@ -1,0 +1,16 @@
+{
+  "name": "cdc-project",
+  "version": "1.0.0",
+  "description": "A project to connect to Salesforce and listen for Account Change Events using jsforce.",
+  "main": "cdc.js",
+  "scripts": {
+    "start": "node cdc.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "jsforce": "^1.10.1",
+    "json-colorizer": "^1.1.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
