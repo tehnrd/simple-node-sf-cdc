@@ -1,5 +1,6 @@
 {
   "name": "cdc-project",
+  "type": "module",
   "version": "1.0.0",
   "description": "A project to connect to Salesforce and listen for Account Change Events using jsforce.",
   "main": "cdc.js",
@@ -7,6 +8,7 @@
     "start": "node cdc.js"
   },
   "dependencies": {
+    "axios": "^1.7.9",
     "dotenv": "^10.0.0",
     "jsforce": "^1.10.1",
     "json-colorizer": "^1.1.0"
