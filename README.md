@@ -1,7 +1,7 @@
 # CDC Project
 
 ## Description
-This project connects to Salesforce and listens for Account Change Events using the jsforce library.
+This project connects to Salesforce and listens for CDC events.
 
 ## Prerequisites
 - Node.js installed
