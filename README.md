@@ -11,7 +11,7 @@ This project connects to Salesforce and listens for CDC events.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/tehnrd/simple-node-sf-cdc
    ```
 2. Navigate to the project directory:
    ```sh
